@@ -1,4 +1,5 @@
 # Memory Game
+# Team Details
 <details>Team Members:
 1. 221CS136 Megha Arya meghaarya.221cs136@nitk.edu.in 7338430370
 2. 221CS151 Sharada A Pandit sharadaapandit.221cs151@nitk.edu.in 9916411636
