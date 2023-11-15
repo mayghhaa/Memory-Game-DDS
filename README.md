@@ -1,9 +1,9 @@
 # Team-10-DDS
-<summary><details></details>Team Members:
+<details>Team Members:
 1. 221CS136 Megha Arya meghaarya.221cs136@nitk.edu.in 7338430370
 2. 221CS151 Sharada A Pandit sharadaapandit.221cs151@nitk.edu.in 9916411636
 3. 221CS165 Viren Haresh Kundnani virenhareshkundnani.221cs165@nitk.edu.in 8850778784
-</summary>
+</details>
 # Abstract:
 In our project, we'll be designing a sequential logic game, such as a memory game.Users must follow a sequence of LED flashes or button presses, and logic gates can
 control the game's logic. The initial sequence will be displayed with the help of LEDs. The player’s input will be taken using pushbuttons. If the input and the
