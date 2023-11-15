@@ -1,8 +1,8 @@
 # Memory Game
 # Team Details
 <details>
-  Semester: 3rd Sem B. Tech. CSE </br>
-  Section: S1
+  Semester: 3rd Sem B. Tech. CSE  
+  Section: S1  
 1. Megha Arya            221CS136 meghaarya.221cs136@nitk.edu.in 7338430370
 2. Sharada A Pandit      221CS151 sharadaapandit.221cs151@nitk.edu.in 9916411636
 3. Viren Haresh Kundnani 221CS165 virenhareshkundnani.221cs165@nitk.edu.in 8850778784
