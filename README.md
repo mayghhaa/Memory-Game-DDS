@@ -1,4 +1,4 @@
-Memory Game
+# Memory Game
 Team Details
 <details>
   Semester: 3rd Sem B. Tech. CSE <br />
