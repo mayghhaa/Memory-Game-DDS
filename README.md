@@ -28,6 +28,8 @@ Logisim Circuit Diagram
 
 
 ![Logisim-snaps](https://github.com/techsharada604/Team-10-DDS/assets/116255115/1dbfc89d-7f1e-49c4-9c26-f4744857b758)
+
+</details>
 Verilog Code
 <details>
 
