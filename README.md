@@ -25,10 +25,10 @@ The project uses sequential circuits, i.e., D Flip Flops and a comparator circui
   
 Logisim Circuit Diagram
 <details>
+![Logisim-snaps](https://github.com/techsharada604/Team-10-DDS/assets/116255115/dfffeb0a-dd8e-4b66-ac51-786f3a000622)
 
 
-Verilog C![Logisim-snaps](https://github.com/techsharada604/Team-10-DDS/assets/116255115/2cc744e8-75db-4aa3-90e9-23d8b0a01f1a)
-ode
+Verilog Code
 <details>
 // 4bit comp
 arator
