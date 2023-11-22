@@ -193,6 +193,10 @@ module counter_enables_muxes (
 
 endmodule
 `````
+
+
+
+
 </details>
 
 
