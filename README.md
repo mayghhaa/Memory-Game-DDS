@@ -1,5 +1,5 @@
 # Memory Game
-## Team Details
+## Team Details:
 <details>
   Semester: 3rd Sem B. Tech. CSE <br />
   Section: S1 <br />
