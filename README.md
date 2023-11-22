@@ -25,7 +25,10 @@ The project uses sequential circuits, i.e., D Flip Flops and a comparator circui
 
 ## Functional Table:
 <details>
-  ![image](https://github.com/techsharada604/Team-10-DDS/assets/91326025/a46db6fc-019a-48f8-877f-1244e6d4aef5)
+
+  
+  ![image](https://github.com/techsharada604/Team-10-DDS/assets/91326025/869dcfd7-59fd-46de-adba-d17b06ddc2dd)
+
 </details>
 
 
