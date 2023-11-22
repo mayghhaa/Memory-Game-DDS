@@ -35,7 +35,7 @@ Verilog Code
 
 
   
-````
+```verilog
   // 4bit comp
 arator
 
@@ -194,7 +194,7 @@ module counter_enables_muxes (
   multiplexer_2to1 mux3 ((enable),(lfsr_output[3]),(stored_sequence[3]),(mux_outputs[3]));
 
 endmodule
-`````
+```
 
 
 
